@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    
+}
+image{
+ margin:20 px ;   
+  }
+         footer p{
+         border-radius:1px;
+         border: 2px solid  rgb(0, 0, 0);
+         padding: 1px;
+         color:rgb(255, 255, 255) ;
+         background-color:rgb(51, 55, 65) ;
+
+         }
+         h1{
+   color: rgb(0, 0, 0) ;
+   text-align:center ;
+   background-color: rgb(51, 55, 65);
+   border-radius: 1px;
+   border:2px solid black;
+         }
+         h6{
+   color: rgb(0, 0, 0) ;
+   text-align:center ;
+   background-color: rgb(51,55,65);
+   border-radius: 1px;
+   border:2px solid black;
+         } 
+         h4{
+   color: rgb(255, 255, 255) ;
+   text-align:center ;
+   background-color: rgb(51,55,65);
+   border-radius: 1px;
+   border:2px solid black;
+         }
+
+          h3{
+              
+
+    
+          
